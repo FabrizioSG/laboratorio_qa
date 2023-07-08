@@ -1,2 +1,2 @@
-#class Cuenta:
-    #saldo = 0
+class Cuenta:
+    saldo = 0
